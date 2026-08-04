@@ -1,5 +1,4 @@
 <h1 align="center">Hey, It's Ansh Jaiswal👋</h1>
-<p align="center">I thrive on minimalistic ideas and core concepts.</p>
 
 ---
 
