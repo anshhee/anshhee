@@ -4,8 +4,6 @@
 
 ## About Me
 • 👾 Currently learning Web3, Smart Contracts and building decentralized applications.  
-• 📫 Reach me at: jaiswalanshv2@gmail.com  
-• 🌐 Portfolio: https://anshe.vercel.app/
 ---
 
 ## My Stack
